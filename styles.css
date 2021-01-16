@@ -1,0 +1,145 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 4rem;
+    font-weight: normal;
+    margin: 50px auto 20px auto;
+
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2rem;
+  margin: 50 auto 20;
+
+  }
+
+h3 {
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF9F9;
+}
+
+.btn {
+  color: #11999E;
+
+}
+.p-1-line {
+  margin-bottom: 50px;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 35%;
+  bottom: 45%;
+}
+.bottom-container-p {
+  margin-bottom: 0;
+  color: white;
+  }
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  }
+
+.BUTTON_GIO {
+     -webkit-border-radius: 11px;
+     -moz-border-radius: 11px;
+     border-radius: 11px;
+     height: 0;
+     line-height: 0;
+     color: #FFFFFF;
+     font-family: Arial;
+     width: 191px;
+     font-size: 26px;
+     font-weight: 200;
+     padding: 22px;
+     background-color: #66BFBF;
+     -webkit-box-shadow: 1px 1px 20px 0 #000000;
+     -moz-box-shadow: 1px 1px 20px 0 #000000;
+     box-shadow: 1px 1px 20px 0 #000000;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+
+.BUTTON_GIO:hover {
+    transition: 1s;
+    transform: scale(1.1);
+  }
+.dots {
+  border-top: 10px dotted #EAF6F6;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-right-width: 0;
+  width: 5%;
+}
+.contact-me {
+  margin-bottom: 40px;
+}
+.first-line {
+  margin-bottom: 30px;
+}
+.contact-me-p {
+  margin-bottom: 30px;
+}
+
+.footer-link {
+  color: #11999E;
+}
+.foto {
+  border-radius: 50%;
+  margin-top: 50px
+}
+.final-text {
+  color: white;
+}
+.skill-row {
+  width: 45%;
+  margin: 120px auto 120px auto;
+  text-align: left;
+  line-height: 2;
+}
+.tennis-racket-img {
+  width: 15%;
+  text-align: right;
+  float: right;
+  margin-left: 30px;
+}
+.tools-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  }
+
+.top-cloud {
+  position: absolute;
+  right: 35%;
+  top: 10%;
+}
